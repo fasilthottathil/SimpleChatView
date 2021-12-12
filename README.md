@@ -14,6 +14,10 @@ This is an Android library which can be used to add chat functionality to your a
   </tr>
 </table>
 
+### Version
+[![](https://jitpack.io/v/fasilthottathil/SimpleChatView.svg)](https://jitpack.io/#fasilthottathil/SimpleChatView)
+
+
 
 ### Installation
 Add this to your root build.gradle at the end of repositories:
