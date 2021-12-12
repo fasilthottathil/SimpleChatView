@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_button">Add button</string>
+    <string name="type_message">Type message</string>
+    <string name="send_button">send button</string>
+    <string name="send_image">send image</string>
+    <string name="send_video">Send video</string>
+    <string name="open_camera">Open camera</string>
+    <string name="image">image</string>
+    <string name="date">Date</string>
+    <string name="username">Username</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleChatView">
+        <attr name="showAddButton" format="boolean" />
+        <attr name="addButtonColor" format="color" />
+        <attr name="chatViewBackgroundColor" format="color" />
+        <attr name="chatInputBackgroundColor" format="color" />
+        <attr name="chatInputBackground" format="integer" />
+        <attr name="hintTextColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="hint" format="string" />
+        <attr name="sendButtonColor" format="color" />
+        <attr name="showImageButton" format="boolean" />
+        <attr name="showVideoButton" format="boolean" />
+        <attr name="showCameraButton" format="boolean" />
+        <attr name="showSenderLayout" format="boolean"/>
+    </declare-styleable>
+</resources>
